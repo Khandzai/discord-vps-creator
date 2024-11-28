@@ -1,7 +1,7 @@
 import gdown
 
 # URL file Google Drive
-url = "https://drive.google.com/uc?id=1WlzOMBtITNea7X8Qu-EIo0rErRq4SAg_"
+url = "https://computernewb.com/isos/windows/Win10_22H2_English_x64.iso"
 
 # Đường dẫn lưu file sau khi tải
 output = "/mnt/win10.zip"  # Đổi tên file tùy ý
